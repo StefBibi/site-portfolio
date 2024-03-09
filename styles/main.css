@@ -60,3 +60,10 @@
     padding: 5px 15px;
     border-radius: 25px;
 }
+.footer{
+    background-color: black;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
